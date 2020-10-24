@@ -1,4 +1,4 @@
-
+// codigo de arduino en C, implementando los calculos en python
 float N[2][2] = {
   {-0.14736599, -7.83405221},
   { -1.15400831,  9.72328823}};
